@@ -19,7 +19,6 @@ def decode_sentence(sentence)
   sentence.split('  ').map { |word| decode_word(word) }.join(' ')
 end
 
-
 puts(decode_word('-- -.--'))
 
 puts decode_sentence('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')

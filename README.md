@@ -76,11 +76,10 @@ You can deploy this project using [Render](https://render.com/).
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Fuad Abdlemoin**
+👤 **Karan Jain**
 
-- GitHub: [@fuadmoin](https://github.com/fuadmoin)
-- Twitter: [@Fuad01804580](https://twitter.com/Fuad01804580)
-- LinkedIn: [Fuad Moin](https://www.linkedin.com/in/fuadmoin/)
+- GitHub: [@karanjain2212](https://github.com/karanjain2212)
+- LinkedIn: [@karanjain2212](https://linkedin.com/in/karanjain2212)
 
 👤 **Fuad Abdlemoin**
 
